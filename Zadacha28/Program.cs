@@ -4,15 +4,14 @@
 
 Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
-int X = Сomposition(num);
+int X = Factorial(num);
 Console.WriteLine($"Произведение чисел от 1 до N равно = {X}");
 
-int Сomposition(int num)
+int Factorial(int num)
 {
     int fact = 1;
     for (int i = 1; i <= num; i++)
         fact = fact*i;
     return fact;
 }
-
 
