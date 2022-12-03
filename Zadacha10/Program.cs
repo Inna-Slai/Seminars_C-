@@ -3,4 +3,24 @@
 //782 -> 8
 //918 -> 1
 
+Console.Clear();
+
+Console.WriteLine("Введите трехзначное число и я выведу Вам вторую цифру этого числа");
+Console.Write("Введите трёхзначное число: ");
+
+int Number = Convert.ToInt32(Console.ReadLine());
+
+if (Number / 100 < 10) {    // проверка что число не больше 3 знаков
+  if (Number / 100 > 1) {   // проверка что число не меньше 3 знаков
+
+    int SecondDigit = Number / 10 % 10;
+    Console.WriteLine("Вторая цифра вашего числа: " + SecondDigit);
+  }
+  else {
+  Console.WriteLine("Это слишком маленькое число");
+  }
+}
+else {
+  Console.WriteLine("Это слишком большое число");
+}
 
