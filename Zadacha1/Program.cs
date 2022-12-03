@@ -5,13 +5,15 @@
 
 Console.Clear();
 Console.Write("Введи первое число: ");
-int firstNumber = Convert.ToInt32(Console.ReadLine());
+int NumberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введи второе число: ");
-int secondNumber = Convert.ToInt32(Console.ReadLine());
+int NumberB = Convert.ToInt32(Console.ReadLine());
 
-if (firstNumber>secondNumber) {
-  Console.WriteLine("MAX= " + firstNumber);
+if (NumberA > NumberB)
+{
+  Console.WriteLine("Максимальное из двух чисел = " + NumberA);
 }
-else {
-  Console.WriteLine("Максимальное из двух чисел = " + secondNumber);
+else
+{
+  Console.WriteLine("Максимальное из двух чисел = " + NumberB);
 }
