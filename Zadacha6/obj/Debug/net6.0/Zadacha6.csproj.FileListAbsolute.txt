@@ -1,0 +1,15 @@
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\bin\Debug\net6.0\Zadacha6.exe
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\bin\Debug\net6.0\Zadacha6.deps.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\bin\Debug\net6.0\Zadacha6.runtimeconfig.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\bin\Debug\net6.0\Zadacha6.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\bin\Debug\net6.0\Zadacha6.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.csproj.AssemblyReference.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.AssemblyInfoInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.AssemblyInfo.cs
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.csproj.CoreCompileInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\refint\Zadacha6.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\Zadacha6.genruntimeconfig.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Семинары\seminar\seminar_1\Zadacha6\obj\Debug\net6.0\ref\Zadacha6.dll
